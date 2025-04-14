@@ -1,3 +1,8 @@
 123 
 add for dev-1
+<<<<<<< HEAD
 add for develop 2
+=======
+add for dev 2
+
+>>>>>>> dev-2
